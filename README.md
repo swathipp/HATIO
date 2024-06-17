@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-mern-auth.git
+git clone https://github.com/swathipp/HATIO.git
 cd todo-mern-auth
 ```
 ## Initialize Node.js Project
